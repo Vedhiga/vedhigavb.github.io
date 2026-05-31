@@ -85,6 +85,18 @@ This conceptual model can be extended in several ways:
 
 ---
 
+## Results
+
+The trained RL agent successfully learned policies that balance:
+
+- Power efficiency
+- Orbit maintenance
+- Battery safety
+
+Simulation results demonstrated stable operation with low orbit error and safe battery levels throughout training.
+
+---
+
 **Author:**  
 Vedhiga V B  
 B.E. Artificial Intelligence and Data Science  
